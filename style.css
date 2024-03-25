@@ -1,0 +1,50 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+  
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(151,229,235,0.583158263305322) 35%, rgba(0,212,255,0.06495098039215685) 100%);
+    color: #333333;
+  
+    width: 980px;
+    margin: 0 auto;
+    height:100vh;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-bottom: 0;
+  }
+
+  header > h2 {
+    text-align: center;
+    font-size: 25px;
+  }
+
+  main > h2 {
+    text-align: center;
+    font-size: 25px;
+  }
+
+  footer {
+    padding-top: 10vh;
+  }
+
+  h3 {
+    text-align: center;
+    font-size: 25px;
+  }
+
+  .contacts {
+    font-size: 20px;
+    margin-bottom: 5px;
+    font-family: sans-serif;
+    font-weight: bolder;
+  }
+
+  ul.contacts > li {
+    font-family: sans-serif;
+    font-weight: normal;
+    color: white;
+  }
